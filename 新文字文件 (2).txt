@@ -1,0 +1,20 @@
+
+<body bgcolor="black">
+<font color="white">
+<marquee direction="right"scrollamount="5"><h1>張晉瑋</h1></marquee><br>
+<font color="green">
+<marquee direction="right"scrollamount="4"><h1>生日快樂</h1></marquee><br>
+<font color="yellow">
+<marquee direction="left"scrollamount="8"><h1>9/2</h1></marquee><br>
+<font color="yellow">
+<marquee direction="left"scrollamount="4"><h1>JinWei</h1></marquee><br>
+<font color="yellow">
+<marquee direction="right"scrollamount="6"><h1>生日快樂</h1></marquee><br>
+<font color="yellow">
+<marquee direction="left"scrollamount="3"><h1張晉瑋</h1></marquee><br>
+<font color="yellow">
+<marquee direction="right"scrollamount="5"><h1>JinWei</h1></marquee><br>
+<font color="yellow">
+<marquee direction="left"scrollamount="4"><h1>9/2</h1></marquee><br>
+</body>
+</html>
